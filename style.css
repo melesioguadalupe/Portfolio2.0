@@ -1,7 +1,7 @@
 /* Basic CSS resets -- leveling slight inconsistencies in browsers */
 html, body {
-	margin:50px;
-	padding:50px;
+	margin:0px;
+	padding:0px;
 	height:100%;
 }
 
@@ -36,7 +36,6 @@ margin: 500px 0;
       border-bottom: 70px solid white;
       border-left: 100px solid transparent;
       transform: rotate(45deg);
-
 
 }	
 	
