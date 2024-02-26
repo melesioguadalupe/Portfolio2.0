@@ -1,7 +1,7 @@
 /* Basic CSS resets -- leveling slight inconsistencies in browsers */
 html, body {
-	margin:0px;
-	padding:0px;
+	margin:50px;
+	padding:50px;
 	height:100%;
 }
 
